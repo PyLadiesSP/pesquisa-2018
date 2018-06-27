@@ -39,7 +39,7 @@
 #### O que querem ensinar ou como podem colaborar
 ##### (produzindo ou revisando material, monitoria etc)
 
----?image=results/colaboracao.png&size=auto 100%
+---?image=results/colaboracao.png&size=auto 90%
 
 ---
 
