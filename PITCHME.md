@@ -18,32 +18,32 @@
 
 ---
 
-### O que querem aprender?
+#### O que querem aprender?
 
 ![O que querem aprender?](results/o-que-querem.png)
 
 ---
 
-### O que dificulta a participação nos eventos do PyLadies São Paulo?
+#### O que dificulta a participação nos eventos do PyLadies São Paulo?
 
 ![Dificuldade](results/dificuldades.png)
 
 ---
 
-### Como gostariam de contribuir?
+#### Como gostariam de contribuir?
 
 ![Contribuição](results/contribuicao.png)
 
 ---
 
-### O que querem ensinar ou como podem colaborar
-#### (produzindo ou revisando material, monitoria etc)
+#### O que querem ensinar ou como podem colaborar
+##### (produzindo ou revisando material, monitoria etc)
 
-![Colaboração](results/colaboracao.png)
+![Colaboração](results/colaboracao.png&size=auto)
 
 ---
 
-### Para nos conhecermos melhor:
+#### Para nos conhecermos melhor:
 
 ![Para nos conhecer](results/para-nos-conhecer.png)
 
