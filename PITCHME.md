@@ -8,20 +8,23 @@
 
 +++
 
-```
 PyLadies é dedicado a promover uma comunidade respeitosa, livre de assédio para todos. Não toleramos assédio ou bullying de nenhum membro da comunidade de maneira alguma. Isso não somente se estende aos membros das comunidades locais de PyLadies, mas a todos que estiverem envolvidos na comunidade PyLadies de usuários, organizadores e patrocinadores de eventos.
 
-Assédio inclui comentários ofensivos, verbal ou eletronicamente, relacionados à características ou escolhas pessoais, imagens com conteúdo de cunho sexual ou comentários em público ou espaços online, intimidações deliberadas, bullying, perseguição, fotos ou áudio perturbadores, interrupções constantes em momentos de fala, canais IRC, encontros online, presenciais ou outros tipos de eventos, contato físico inapropriado ou atenção sexual indesejada. Participantes solicitados a parar qualquer assédio ou comportamento intimidador são esperados a cumprí-lo imediatamente.
++++
+
+Assédio inclui comentários ofensivos, verbal ou eletronicamente, relacionados à características ou escolhas pessoais, imagens com conteúdo de cunho sexual ou comentários em público ou espaços online, intimidações deliberadas, bullying, perseguição, fotos ou áudio perturbadores, interrupções constantes em momentos de fala, canais IRC, encontros online, ...
+
++++
+
+...presenciais ou outros tipos de eventos, contato físico inapropriado ou atenção sexual indesejada. Participantes solicitados a parar qualquer assédio ou comportamento intimidador são esperados a cumprí-lo imediatamente.
+
++++
 
 Se um participante é envolvido em comportamento intimidador, representantes da comunidade devem tomar medidas justas que julgarem apropriadas, incluindo advertir o opressor, expulsão de qualquer evento de PyLadies ou listas de discussão, canais IRC, fóruns e outros canais de comunicação eletrônicos para resolver o problema. Isso deve incluir expulsão de grupos de Meetups de PyLadies.
 
-Se você for assediada, perceber que alguém foi assediada ou tiver qualquer outra preocupação, favor atue para interceder ou peça ajuda para qualquer membro da comunidade PyLadies, administradores do canal IRC e do site ou organizadores/representantes de quaisquer eventos presenciais sob responsabilidade do PyLadies.
-```
++++
 
-@[1,2]
-@[3,4]
-@[5,6]
-@[7,8]
+Se você for assediada, perceber que alguém foi assediada ou tiver qualquer outra preocupação, favor atue para interceder ou peça ajuda para qualquer membro da comunidade PyLadies, administradores do canal IRC e do site ou organizadores/representantes de quaisquer eventos presenciais sob responsabilidade do PyLadies.
 
 ---
 
@@ -29,11 +32,11 @@ Se você for assediada, perceber que alguém foi assediada ou tiver qualquer out
 
 +++
 
-```
 Somos um grupo de mentoria internacional com foco em ajudar mais mulheres a se tornarem participantes ativas e líderes na comunidade aberta de Python. Nossa missão é promover, educar e avançar como uma comunidade Python diversa através de apoio, educação, conferências, eventos e encontros. 
 
++++
+
 PyLadies também visa promover uma rede de suporte amigável para mulheres e uma ponte para a comunidade Python mundial. Qualquer um com interesse em Python é encorajado a participar!
-```
 
 ---
 
