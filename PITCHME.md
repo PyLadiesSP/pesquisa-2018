@@ -94,6 +94,15 @@ PyLadies também visa promover uma rede de suporte amigável para mulheres e uma
 
 +++
 
+## Propósito
+
+- Assuntos de interesse da comunidade
+- Planejar o próximo semestre
+- Preparar para 2019
+- Continuidade
+
++++
+
 ## Resumo
 
 
@@ -138,7 +147,26 @@ PyLadies também visa promover uma rede de suporte amigável para mulheres e uma
 
 ---
 
-## Grupos Temáticos
+## Comunidade: como atuar?
+
++++
+
+### Dificuldades
+
+- Somos 5
+- Tempo insuficiente para estudar e adquirir novos conhecimentos
+- Demora para desenvolver novos materiais
+- Sempre conteúdo básico
+
++++
+
+### Participação na comunidade
+
+- Grupos de Estudo
+- Palestras (submissão de palestras, organização de eventos)
+- Dojo
+- Novas ideias de cursos (sugestões, desenvolvimento e revisão de materiais)
+- Mentoria (carreira, direcionamento de estudos)
 
 +++
 
@@ -151,4 +179,7 @@ PyLadies também visa promover uma rede de suporte amigável para mulheres e uma
 - Outros
 
 ---
+
+# Obrigada! =)
+
 
