@@ -151,22 +151,22 @@ PyLadies também visa promover uma rede de suporte amigável para mulheres e uma
 
 +++
 
-### Dificuldades
+### Dificuldades Atuais
 
 - Somos 5
-- Tempo insuficiente para estudar e adquirir novos conhecimentos
-- Demora para desenvolver novos materiais
-- Sempre conteúdo básico
+- Tempo insuficiente para estudar e adquirir novos conhecimentos |
+- Demora para desenvolver novos materiais |
+- Sempre conteúdo básico |
 
 +++
 
 ### Participação na comunidade
 
 - Grupos de Estudo
-- Palestras (submissão de palestras, organização de eventos)
-- Dojo
-- Novas ideias de cursos (sugestões, desenvolvimento e revisão de materiais)
-- Mentoria (carreira, direcionamento de estudos)
+- Palestras (submissão de palestras, organização de eventos) |
+- Dojo |
+- Novas ideias de cursos (sugestões, desenvolvimento e revisão de materiais) |
+- Mentoria (carreira, direcionamento de estudos) |
 
 +++
 
